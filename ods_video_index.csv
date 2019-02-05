@@ -1,0 +1,165 @@
+id,title,publishedAt,description,youtube_id
+UExwVmVBMXRkZ2ZDQjAta3VpOEZSSkR6TzBmOThhTzA1VC41NkI0NEY2RDEwNTU3Q0M2,"Обучение машинному обучению и анализу данных утром, днём, вечером, ночью, Алексей Толстиков",2018-12-12T09:27:35.000Z,"Data Елка в Минске – 08.12.2018
+by Yandex & ODS Minsk
+
+Алексей рассказал, как развивают Школу анализа данных и создают сложную и интересную магистерскую программу. Дополнительно рассказал о критериях поступления в ШАД и материалах, которые могут пригодиться. Бонусом прошелся по онлайн-курсам, подготовленным компанией за последние годы.",FEzjzTSHlDs
+UExwVmVBMXRkZ2ZDQjAta3VpOEZSSkR6TzBmOThhTzA1VC4yODlGNEE0NkRGMEEzMEQy,Как понять пользователя с полуслова? Алексей Иванин,2018-12-12T09:29:42.000Z,"Data Елка в Минске – 08.12.2018
+by Yandex & ODS Minsk
+
+Небольшой рассказ о том, как Поиск анализирует запрос пользователя. Алексей рассказал про то, что такое «расширения запроса», как мы их получаем и какую пользу можно извлечь, применяя эти знания неочевидным образом.",2dhwd-dYZhI
+UExwVmVBMXRkZ2ZDQjAta3VpOEZSSkR6TzBmOThhTzA1VC4wMTcyMDhGQUE4NTIzM0Y5,"Computer vision: слабое железо не приговор, Александр Матвеенко",2018-12-12T09:32:25.000Z,"Data Елка в Минске – 08.12.2018
+by Yandex & ODS Minsk
+
+Основные технические вызовы, которые приходилось преодолевать в Mapbox. Краткий обзор полученных результатов и планов на будущее.",-HwjbfQ80WY
+UExwVmVBMXRkZ2ZDQjAta3VpOEZSSkR6TzBmOThhTzA1VC41MjE1MkI0OTQ2QzJGNzNG,"Как научить себя слушать: голосовые технологии в Яндекс.Станции, Андрей Андрухович",2018-12-12T09:34:49.000Z,"Data Елка в Минске – 08.12.2018
+by Yandex & ODS Minsk
+
+Андрей рассказал, как в Яндекс адаптировали голосовые технологии для работы в устройстве, где нет кнопок, но есть 7 микрофонов. В первую очередь он рассказал про распознавание речи и голосовую активацию. А ещё — про голосовую биометрию и (анти)спуфинг.",q_Vc0c4CXqU
+UExwVmVBMXRkZ2ZDQjAta3VpOEZSSkR6TzBmOThhTzA1VC4wOTA3OTZBNzVEMTUzOTMy,"Методы распознавания 3D-объектов для беспилотных автомобилей, Виктор Отлига",2018-12-12T09:36:11.000Z,"Data Елка в Минске – 08.12.2018
+by Yandex & ODS Minsk
+
+Без понимания, что находится вокруг и где именно, беспилотному автомобилю не обойтись. Виктор рассказал, как в Яндекс решают задачу распознавания других участников дорожного движения в трёхмерном облаке точек, чем эта задача отличается от распознавания объектов на изображении и как извлечь пользу из совместного использования разных типов сенсоров.",sARwqGY5l44
+UExwVmVBMXRkZ2ZDREl2ck5fdmFOalFDb1JNN09kcmR4aC41NkI0NEY2RDEwNTU3Q0M2,Александр Сологуб – 45 место в Kaggle TGS Salt Identification Challenge,2018-11-08T13:14:52.000Z,"ODS November Meetup – 07.10.2018
+
+При поддержке компании Mapbox.
+
+Ноябрьская встреча минского сообщества Open Data Science была посвящена Kaggle TGS Salt Identification Challenge – соревнованию по семантической сегментации.",r7OuZ2aOHH0
+UExwVmVBMXRkZ2ZDREl2ck5fdmFOalFDb1JNN09kcmR4aC4yODlGNEE0NkRGMEEzMEQy,Юрий Зеленский и Вадим Нарейко – 287 место в Kaggle TGS Salt Identification Challenge,2018-11-08T13:16:24.000Z,"ODS November Meetup – 07.10.2018
+
+При поддержке компании Mapbox.
+
+Ноябрьская встреча минского сообщества Open Data Science была посвящена Kaggle TGS Salt Identification Challenge – соревнованию по семантической сегментации.",x3I0yR-_hZs
+UExwVmVBMXRkZ2ZDREl2ck5fdmFOalFDb1JNN09kcmR4aC4wMTcyMDhGQUE4NTIzM0Y5,Владислав Артемьев – 214 место в Kaggle TGS Salt Identification Challenge,2018-11-08T13:17:23.000Z,"ODS November Meetup – 07.10.2018
+
+При поддержке компании Mapbox.
+
+Ноябрьская встреча минского сообщества Open Data Science была посвящена Kaggle TGS Salt Identification Challenge – соревнованию по семантической сегментации.",MMYYXADsavM
+UExwVmVBMXRkZ2ZDREl2ck5fdmFOalFDb1JNN09kcmR4aC41MjE1MkI0OTQ2QzJGNzNG,Евгений Бабахин – 1 место в Kaggle TGS Salt Identification Challenge,2018-11-08T13:17:48.000Z,"ODS November Meetup – 07.10.2018
+
+При поддержке компании Mapbox.
+
+Ноябрьская встреча минского сообщества Open Data Science была посвящена Kaggle TGS Salt Identification Challenge – соревнованию по семантической сегментации.",20KEvvhiFLo
+UExwVmVBMXRkZ2ZDREl2ck5fdmFOalFDb1JNN09kcmR4aC4wOTA3OTZBNzVEMTUzOTMy,Селим Сефербеков – 3 место в Kaggle TGS Salt Identification Challenge,2018-11-08T13:18:07.000Z,"ODS November Meetup – 07.10.2018
+
+При поддержке компании Mapbox.
+
+Ноябрьская встреча минского сообщества Open Data Science была посвящена Kaggle TGS Salt Identification Challenge – соревнованию по семантической сегментации.",-jtqT5DihPc
+UExwVmVBMXRkZ2ZDRGtRcjV2T0pZczVrSW9Ma1RpdEFLVC41NkI0NEY2RDEwNTU3Q0M2,Алексей Юркевич - На что обратить внимание дата сайнтисту в продуктовой компании,2018-09-17T12:07:53.000Z,"Алексей рассказал, на что стоит обратить внимание дата сайнтисту в продуктовой компании. В частности, речь в докладе идет о том, почему важна прозрачность процессов, почему нужно всегда начинать с простого решения и как относиться к пресловутому business value.",_1EZOtu77w0
+UExwVmVBMXRkZ2ZDRGtRcjV2T0pZczVrSW9Ma1RpdEFLVC4yODlGNEE0NkRGMEEzMEQy,Алексей Натекин – Как сделать самое нестандартное соревнование по ботам-стиховодам,2018-09-17T12:09:41.000Z,"Основатель ODS Алексей Натекин выступил с рассказом о весьма необычном data science соревновании - Classic AI.
+В соревновании участникам предлагалось написать алгоритм, способный генерировать стихи на заданную тему в стиле одного из известных поэтов.
+Из выступления вы узнаете, какие подводные камни у такого соревнования и что мог бы написать Есенин про баги в процессе обучения.",v7aank8k7w8
+UExwVmVBMXRkZ2ZDRGtRcjV2T0pZczVrSW9Ma1RpdEFLVC41MjE1MkI0OTQ2QzJGNzNG,Дмитрий Федоров - Ускорение нейронных сетей с помощью Metal performance shading,2018-09-17T12:12:12.000Z,"В докладе рассмотрены примеры имплементаций некоторых популярных архитектур, а также проведено сравнение с другими фреймворками для инференса нейросетей на мобильных устройствах.",gpzEQujiTwg
+UExwVmVBMXRkZ2ZDRGtRcjV2T0pZczVrSW9Ma1RpdEFLVC4wOTA3OTZBNzVEMTUzOTMy,С. Мушинский - Optical Flow: нейросетевая революция в компьютерном зрении на примере одной задачи,2018-09-17T13:11:09.000Z,"Компьютерное зрение – область с многолетней историей, но в последние годы мы видим невероятный прогресс, вызванный нейросетями. Часто это значит, что лучшие методы появились буквально вчера и новички без багажа прошлых 40 лет устаревшей информации могут неожиданно оказаться круче укоренившихся профи. На примере одной небольшой задачи Сергей рассказал о достижениях последних лет и как получить SoTA знания за пару дней.",6ZlfYm2xgtY
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy5DQUNERDQ2NkIzRUQxNTY1,Data Fest² Minsk 2018 Открытие Data Fest2 Minsk,2018-06-04T13:51:52.000Z,,H6zZGNAF2pU
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy45ODRDNTg0QjA4NkFBNkQy,"Data Fest² Minsk 2018: Владимир Игловиков, Как быстро надо бежать, чтобы не отстать: ML edition",2018-06-04T13:51:52.000Z,"Поток  I
+Владимир Игловиков, Computer Vision Engineer @Lyft, PhD in Physics at UC Davis, Kaggle Grandmaster.
+
+Как быть востребованным на конкурентном рынке труда Кремниевой Долины. Статьи, технологии, конкурсы, соратники, настрой и другие важные аспекты становления дата сайнтиста.",v6Wv01GJQnI
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy5EMEEwRUY5M0RDRTU3NDJC,"Data Fest² Minsk 2018: Арсений Анисимович, Как решать задачи NLP без знания языка",2018-06-04T13:51:52.000Z,"Поток I
+
+Арсений Анисимович, Lead Research Scientist @Once Dating
+
+Char-level CNN для обработки текстов: советы, трюки и подводные камни, подходы. Можно ли сделать модель для решения специфических проблем в многоязычных ситуациях, не опираясь на большие датасеты.",ldAJHmT7hgY
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy45NDk1REZENzhEMzU5MDQz,"Data Fest² Minsk 2018: Валентин Малых, DeepPavlov: библиотека для создания диалоговых систем",2018-06-04T13:51:52.000Z,"Поток I
+
+Валентин Малых, исследователь в лаборатории нейронных систем и глубокого обучения @МФТИ, Москва
+
+Библиотека DeepPavlov содержит в себе отдельные код, тренированные модели и вспомогательные утилиты для создания диалоговых систем (чатботов).",GkuAU-RRG5o
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy5GNjNDRDREMDQxOThCMDQ2,"Data Fest² Minsk 2018: Виктор Отлига, Распознавание и учёт светофоров беспилотным автомобилем",2018-06-04T13:51:52.000Z,"Поток I
+
+Виктор Отлига, разработчик направления беспилотных автомобилей @Яндекс
+
+
+Светофоры - один из главных типов объектов, влияющих на движение автомобиля в городе. Обычно у человека не возникает проблем с тем, чтобы определить цвет светофора и понять, как он влияет на дорожную ситуацию. А сложно ли беспилотному автомобилю справиться с задачей учёта светофоров при планировании своего поведения? Думаете, что это крайне простая и понятная задача? На самом деле, всё не так тривиально, как может показаться на первый взгляд. В докладе мы попробуем разобраться, какие есть подводные камни у этой задачи и как можно с ними бороться.",cpv3VF_olGw
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy4yMUQyQTQzMjRDNzMyQTMy,"Data Fest² Minsk 2018: Сергей Овчаренко, Superresolution для видео с помощью Generative Adversarial",2018-06-04T13:51:52.000Z,"Поток I
+
+Сергей Овчаренко, Senior Research Engineer @Яндекс
+
+Как можно улучшать видео и изображения с помощью GAN'ов, почему подходы из статей про superresolution не работает на реальных данных и как это исправить.",Dlih_a2-4gU
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy41QTY1Q0UxMTVCODczNThE,"Data Fest² Minsk 2018: Евгений Бабахин, Анализ и разметка больших данных в приложениях eCommerce",2018-06-04T13:51:52.000Z,"Поток I
+
+Евгений Бабахин, Data Scientist @Profitero
+
+Часто бывает, что удается скачать большие объемы неструктурированных данных (текстов, картинок) из открытых источников, однако возникает вопрос их разметки под конкретную задачу. Как справляются  с проблемой разметки и пополнения тренировочного множества в компании Profitero на примере использования такого подхода в задаче по определению брендов продуктов в онлайн-магазинах.",vxkZ0JULC88
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy4zMDg5MkQ5MEVDMEM1NTg2,"Data Fest² Minsk 2018: Дмитрий Палевский, Как безопасно использовать стекинг в продакшене",2018-06-04T13:51:52.000Z,"Поток I
+
+Дмитрий Палевский, Data Scientist @WorkFusion
+
+To stack or not to stack? Или как увеличить точность предсказания для задачи извлечения информации до 99%-100% за счет применения валидационной модели 2-го уровня.",VoBrYyeV-iA
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy41Mzk2QTAxMTkzNDk4MDhF,"Data Fest² Minsk 2018: Дима Королев, Как анализировать гигабайты данных на обычном ноутбуке",2018-06-04T13:51:52.000Z,"Поток I
+
+Дима Королев, Head of Machine Learning @FriendlyData
+
+Часто бывает, что данных — единицы или десятки гигабайт, что не очень мало, но и не очень много. В такой ситуации анализировать их с помощью sed / jq / grep / awk уже выходит слишком медленно, а заливать их в Hadoop-кластер — слишком расточительно. ""От баша и скриптов"" к нативному коду, который двумя разными способами приводит нас к возможности локально, на обычном ноутбуке, ""бегать"" по данным со скоростью больше гигабайта в секунду, сводя время одной итерации ""идея - имплементация - обработка - результат"" к единицам секунд.",N8Yvn9MDD0g
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy45RTgxNDRBMzUwRjQ0MDhC,"Data Fest² Minsk 2018: Александр Радионов, Доставка и эксплуатация обученных моделей на production.",2018-06-08T06:54:36.000Z,"Поток I 
+
+Александр Радионов, руководитель сервисов Поиска и ML @2ГИС
+
+2ГИС — справочник и карта организаций России, Украины, Казахстана и других стран, с более чем 40 миллионами пользователей в месяц. Справочник содержит миллионы организаций и каждый день их сайты меняются. Расскажем о процессе непрерывной (почти) интеграции Machine Learning-сервисов с бекендами для выверки работоспособности и отсутствия 18+ контента на сайтах компаний.",AWAJiv5ZCPY
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy40NzZCMERDMjVEN0RFRThB,"Data Fest² Minsk 2018:Дмитрий Щегрикович, Как сегментировать 150 млн человек",2018-06-04T13:51:52.000Z,"Поток I
+
+Дмитрий Щегрикович, Senior Data Scientist @Wargaming, кандидат ф.-м. наук
+
+Варианты применения методов кластеризации для нужд описания пользователей от идеи до финального решения на примере реальных задач команды Data Science компании Wargaming.О тонкостях продажи бизнесу идей проектов, подходах к решению непосредственно аналитических задач, проверке устойчивости решений, виде автоматизированного решения.",K3Q9gfrCGkI
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy4yODlGNEE0NkRGMEEzMEQy,"Data Fest² Minsk 2018: Влад Павлович,  Доменная адаптация в компьютерном зрении",2018-06-04T13:51:52.000Z,"Поток II
+
+Влад Павлович, Software Engineer @WANNABY
+
+Одна из основных проблем методов глубинного обучения - недостаточные объёмы обучающей выборки. В докладе  -  о возможностях применения доменной адаптации изображений для решения этой проблемы.",53--DNGmHng
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy41NkI0NEY2RDEwNTU3Q0M2,"Data Fest² Minsk 2018: Денис Пирштук, Трекинг состояния человека: в поиске лучшего решения",2018-06-04T13:51:25.000Z,"Поток II
+
+Денис Пирштук, Head of Data Science, Facemetrics @Facemetrics
+
+Об особенностях задач, в которых камера используется для отслеживания состояния человека, будь то его активность, эмоциональное или физическое состояние человека, и сравним возможные подходы к их решению. В этой области обычно модели обучают на датасетах, созданных в лабораторных условиях. Однако у некоторых исследователей получаются модели, которые точнее и намного более устойчивы на новых реальных данных, чем у большинства коллег. В чем же отличия?",PjTVS9n2yLQ
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy4wMTcyMDhGQUE4NTIzM0Y5,"Data Fest² Minsk 2018: Юрий Кашницкий, О некоторых косяках в анализе данных",2018-06-04T13:51:52.000Z,"Поток II
+
+Юрий Кашницкий, Data Scientist команды предиктивной аналитики @Mail.Ru Group, инициатор открытого курса OpenDataScience по машинному обучению
+
+Всем людям свойственно косячить. Data Scientist-ы – не исключение. О граблях, на которые наступают специалисты по анализу данных, откуда они берутся – только ли невнимательность или неумение программировать? Или плохое знание математики? Порой эти косяки можно поправить за один вечер, а порой и весь проект может загнуться.",uK4hPD12YmI
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy41MjE1MkI0OTQ2QzJGNzNG,"Data Fest² Minsk 2018:Николай Карелин, Как работать с научными статьями",2018-06-04T13:51:52.000Z,"Поток II
+
+Николай Карелин, кандидат ф.-м. наук, Lead Developer / Data Scientist @CIB
+
+Для того чтобы подобрать хороший алгоритм или модель для работы с данными, зачастую приходится обработать десятки, а то и сотни статей из arXiv.org, NIPS и массы других мест. Но как оценить, насколько хорошая та или иная статья? Как  пишут статьи, где и как их искать, чем отличаются публикации из разнных источников, как практически работать со статьями.",HuJyLIis6ts
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy4wOTA3OTZBNzVEMTUzOTMy,"Data Fest² Minsk 2018: Артур Степаненко, Как идентифицировать токсичные комментарии",2018-06-04T13:51:52.000Z,"Поток II
+
+Артур Степаненко, независимый подрядчик
+
+Хаки и трюки обучения нейронных сетей для классификации и анализа тональности текстов, файнтюнинг в задачах NLP, оптимизация ROC AUC и продвинутые техники ансамблирования на примере Kaggle-соревнования.",oEZSg79e03I
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy41MzJCQjBCNDIyRkJDN0VD,"Data Fest² Minsk 2018:Александр Буслаев, Еще один вариант решения задачи Instance segmentation",2018-06-04T13:51:52.000Z,"Поток II
+
+Александр Буслаев, разработчик алгоритмов компьютерного зрения @Mapbox,  Kaggle Master, победитель множества соревнований по машинному обучению
+
+Задача instance segmentation считается на порядок более сложной, чем semantic segmentation. Обычно под эту задачу больше подходят решения, так или иначе использующие детекторы. Как в некоторых случаях можно свести эту задачу к более простой и обкатанной задаче семантической сегментации с классическими архитектурами encoder-decoder и победить с таким подходом в двух конкурсах.",hqxLSXMgaF4
+UExwVmVBMXRkZ2ZDQ1VWc0xWcUh3ZWdic0JCRDFiaGhSXy4xMkVGQjNCMUM1N0RFNEUx,"Data Fest² Minsk 2018: Евгений Нижибицкий, Изобразительные лики",2018-06-04T13:51:52.000Z,"Поток II
+
+Евгений Нижибицкий, руководитель направления компьютерного зрения @Rambler. Kaggle Master. Победитель и призер картиночных контестов на топкодере. Выпускник ВМК МГУ и Школы анализа данных Яндекса.
+
+Обзор различных ликов, обнаруженных в deep learning соревнованиях на kaggle и не только.  Рассказы о том, как по недосмотру или лени организаторов занять первое место с моделью-бейзлайном или получить значительную часть ответов теста, включены.",TwIi7zoiiPs
+UExwVmVBMXRkZ2ZDRHc4QVA2VkRRc2lWMDJOSkd3c3NDay4yODlGNEE0NkRGMEEzMEQy,"Automatic Speech Recognition, Илья Едренкин",2018-04-19T07:04:35.000Z,,OFOp_zmljfg
+UExwVmVBMXRkZ2ZDRHc4QVA2VkRRc2lWMDJOSkd3c3NDay41NkI0NEY2RDEwNTU3Q0M2,"DeblurGAN: Conditional Adversarial Networks for Blind Image Deblurring, Орест Купин",2018-04-19T07:03:22.000Z,,4Xbz_wKX2Gw
+UExwVmVBMXRkZ2ZDRFNVUXBQMl9DWEhMaDA0NGx5WFMzWS41NkI0NEY2RDEwNTU3Q0M2,"Deal or No Deal? End-to-End Learning for Negotiation Dialogues, Денис Ярец",2018-03-27T10:41:56.000Z,"Наш специальный гость из Facebook AI Research Денис Ярец рассказал про свои последние работы в сфере диалоговых систем, чатботов и Reinforcement Learning: ""Deal or No Deal? End-to-End Learning for Negotiation Dialogues"" и ""Hierarchical Text Generation and Planning for Strategic Dialogue"".",5oqdfBqok94
+UExwVmVBMXRkZ2ZDQlR1NXBQZ3lrMkE4OG5Jcm9ZaWtrZS41NkI0NEY2RDEwNTU3Q0M2,"CV без DL: деды обучали, Дмитрий Пранчук",2018-03-12T13:01:09.000Z,"Популярность глубоких нейронных сетей приводит к тому, что новички в компьютерном зрении могут и не догадываться о более простых алгоритмах. В своем докладе Дмитрий проведет параллели между ""классическими"" и ""модными"" подходами.",80QO8TjuDBE
+UExwVmVBMXRkZ2ZDQlR1NXBQZ3lrMkE4OG5Jcm9ZaWtrZS4yODlGNEE0NkRGMEEzMEQy,"Каggle Camera Model Identification: как оверфитнуться на LB, Евгений Бабахин",2018-03-12T13:01:43.000Z,Как получить золотую медаль в deep learning соревновании на Kaggle? Из-за чего можно опуститься с четвертого на девятое место на лидерборде? Всегда ли много данных - это хорошо? Ответы на эти и другие вопросы вы найдете в докладе Евгения.,2_I2x0KV_z4
+UExwVmVBMXRkZ2ZDRHgzNnJyTEtwVGhiUnVyRTBCR2NHRy41NkI0NEY2RDEwNTU3Q0M2,"ML tutorial for NLP,  Алексей Натекин",2018-01-08T15:20:18.000Z,,Ozm0bEi5KaI
+UExwVmVBMXRkZ2ZDRHgzNnJyTEtwVGhiUnVyRTBCR2NHRy4yODlGNEE0NkRGMEEzMEQy,"Введение в нейронные сети на базе Microsoft Cognitive Toolkit, Дмитрий Сошников",2018-01-08T15:21:56.000Z,,n_mZYbVtVEM
+UExwVmVBMXRkZ2ZDQ1RjYUtLbEI5d3BsTmZkb3A0RTNDMS41NkI0NEY2RDEwNTU3Q0M2,"Предельные теоремы статистики, или куда сходятся действительно большие данные, Александр Черноокий",2017-11-08T13:05:37.000Z,"Партнеры сообщества: компания JUNO и Юрий Мельничек, angel, investor & entrepreneur",607N7GuTKzg
+UExwVmVBMXRkZ2ZDQ1RjYUtLbEI5d3BsTmZkb3A0RTNDMS4yODlGNEE0NkRGMEEzMEQy,"Архитектура и практика использования Jupyter notebook, Николай Карелин",2017-11-08T13:07:17.000Z,"Партнеры сообщества: компания JUNO и Юрий Мельничек, angel, investor & entrepreneur",xglXoAIxzkc
+UExwVmVBMXRkZ2ZDQ1RjYUtLbEI5d3BsTmZkb3A0RTNDMS4wMTcyMDhGQUE4NTIzM0Y5,"Опыт применения DL в соревновании по сегментации изображений на Kaggle, Андрей Климович",2017-11-08T13:10:00.000Z,"Партнеры сообщества: компания JUNO и Юрий Мельничек, angel, investor & entrepreneur",kzkJNpSSaNE
+UExwVmVBMXRkZ2ZDQ0xTV1k2ZklmWmU2NFU5SzM5dGdRbS4wMTcyMDhGQUE4NTIzM0Y5,"ODS Meetup#1 - Descriptive search at Spotify,  Кирилл Жданович",2017-08-25T15:03:26.000Z,,xZ6YSVrTBuY
+UExwVmVBMXRkZ2ZDQ0xTV1k2ZklmWmU2NFU5SzM5dGdRbS4yODlGNEE0NkRGMEEzMEQy,"ODS Meetup#1 - Категоризация поисковых запросов, Алексей Юркевич и Дмитрий Северинец",2017-08-25T15:03:26.000Z,,63WTkPr2mSw
+UExwVmVBMXRkZ2ZDQ0xTV1k2ZklmWmU2NFU5SzM5dGdRbS41NkI0NEY2RDEwNTU3Q0M2,"ODS Meetup#1 - Kaggle Amazon contest: первый успех в CV & DL, Дмитрий Пранчук",2017-08-25T15:03:26.000Z,,l43hszLm-SU
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC41NkI0NEY2RDEwNTU3Q0M2,Eugene Babakhin - My path from Data Science newbie to Kaggle Master,2017-05-22T15:30:25.000Z,"Overview of what Kaggle is, its pros and cons for the real life. Summary of competitions process and pipeline to handle them (with example for Kaggle competition: ""Two Sigma Connect: Rental Listing Inquiries"")",dCIM1EZ1WX4
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC45NDk1REZENzhEMzU5MDQz,Fedor Chervinskii - How to build a self-driving car (in 100 lines of code),2017-05-22T16:17:28.000Z,"Overview of the technology stack inside a modern autonomous vehicle with focus on perception. Different approaches and problem formulations; deep learning for self-driving cars. Mediated perception: semantic segmentation, object detection, depth estimation. Training data: real and simulated",AYK7_RGZ4Vw
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC4xMkVGQjNCMUM1N0RFNEUx,Free mic session,2017-05-22T16:10:07.000Z,The aim of this brief session is to expand data science connections. It is an excellent opportunity for everybody to present themselves to the audience and say a couple of words on their projects and interests related to data science. The presentation format is a two-minute talk and a one-minute question-answer part.,mVmcL7gmZVo
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC41MjE1MkI0OTQ2QzJGNzNG,Artur Kuzin - Objects segmentation on satellite images,2017-05-22T16:03:54.000Z,An overview of objects segmentation approaches on satellite images from Kaggle competition (Dstl Satellite Imagery Feature Detection). The speech will be dedicated to hacks and tricks of training and design deep convolutional neural networks collected from top-5 teams.,7VRAWuf-bFs
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC5DQUNERDQ2NkIzRUQxNTY1,Alexey Chernobrovov - How machine learning helps to find effective prices for goods,2017-05-22T16:15:52.000Z,Review of approaches to pricing. How it was before and how machine learning will change it. The theory and practice. A few examples of the implementation of this approach at a large online stores.,a_Bh0lLq36E
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC4wOTA3OTZBNzVEMTUzOTMy,Anton Lebedevich - ARIMA vs long term forecasts,2017-05-22T16:05:59.000Z,"Every textbook that has a time series chapter mentions ARIMA so it became a goto model for forecasting. But in real world it struggles with missing data, public holidays, non-stationarity, several steps ahead predictions. Anton will show better alternatives to ARIMA for long term forecasting.",3kbm-Doo89Y
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC4yODlGNEE0NkRGMEEzMEQy,Mike Korobov - Explain me like I'm 5,2017-05-22T16:00:28.000Z,ELI5 is a Python library which allows to visualize and debug various Machine Learning models. It has built-in support for several ML frameworks and provides a way to explain black-box models. Mike is ELI5 core developer who will tell us more how this magic works.,9vYkwD0feb4
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC4wMTcyMDhGQUE4NTIzM0Y5,Petr Ermakov - From Jupyter notebook to production environment,2017-05-22T16:02:11.000Z,In his speech Petr will overview the long way from the proof of concept models to highload production maintenance.,vZjm28HmqUY
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC41MzJCQjBCNDIyRkJDN0VD,Vitalii Radchenko - Sentiment analysis: best practices and challenges,2017-05-22T16:14:19.000Z,"Sentiment analysis is a very interesting task where there are many techniques which work well. We will cover data preprocessing, traditional ML, word- and char-based neural networks. Moreover, you will find out different tricks how to deal with small datasets, dataset absence and transfer learning.",d_-y7v-qHVE
+UExwVmVBMXRkZ2ZDQ3B4czVHVFEyRzN4ZnlxdzN4d2g0cC5GNjNDRDREMDQxOThCMDQ2,Data Fest Belarus 2017,2017-05-22T16:22:55.000Z,"What is #datafestby?
+
+Data Fest is an informal conference that unites researchers, engineers and other data science folks.
+
+More info http://datafest.by/",ZBwxRww_EYo
