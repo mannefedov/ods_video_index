@@ -1,9 +1,9 @@
 # ods_video_index
 
 
-ods_video_index.csv - табличка с информацией о видосах. Поля - 'id', 'title', 'publishedAt', 'description', 'youtube_id'. По id нужно обращаться в api, по youtube_id можно собрать ссылку на видео (https://www.youtube.com/watch?v={youtube_id})
+**ods_video_index.csv** - табличка с информацией о видосах. Поля - 'id', 'title', 'publishedAt', 'description', 'youtube_id'. По id нужно обращаться в api, по youtube_id можно собрать ссылку на видео (https://www.youtube.com/watch?v={youtube_id})
 
-id2transcripts.pkl - pickle словарь с транскриптами для видео в табличке. Ключ - youtube_id из таблицы. Транскрипт выглядит вот так - 
+**id2transcripts.pkl** - pickle словарь с транскриптами для видео в табличке. Ключ - youtube_id из таблицы. Транскрипт выглядит вот так - 
 ```
 [{'duration': 5.141,
   'start': 4.609,
