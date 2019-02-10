@@ -16,3 +16,6 @@
 ```
 
 Табличка с видео (будет пополняться) - <https://docs.google.com/spreadsheets/d/1c4IC9cPgQwg3zMdi9_grVg278cBAZyTST4YxcAQDuS0/edit?usp=sharing)>
+
+
+Транскрипты тут - https://drive.google.com/file/d/1hld-AwHyQnXer3EELrpkF617IP66360D/view?usp=sharing
